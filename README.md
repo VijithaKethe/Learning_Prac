@@ -7,3 +7,4 @@ wq
 
 * understanding commits
 * understanding fetch & pull
+* Resolve merge conflicts
