@@ -1,0 +1,9 @@
+JavaPractice/
+
+node_modules
+
+.env
+
+build/
+
+.vscode
