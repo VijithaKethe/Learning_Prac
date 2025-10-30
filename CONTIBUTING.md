@@ -1,2 +1,3 @@
-#how to contribute 
-Welcome !! appreciate your contribution
+
+Welcome ! appreciate your contribution
+making changes to see diff in commit history
