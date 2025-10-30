@@ -2,3 +2,4 @@ Temp notes for development:
 *Research
 *plan next feature
 *seeing differences in git bash using git diff command
+Updated in REPO remotely
